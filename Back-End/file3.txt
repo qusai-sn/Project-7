@@ -1,3 +1,20 @@
 this is a test
 
 this is test for pull and push
+
+
+
+
+stage : add / // git add .
+
+commit : "  "
+
+push  : >> remote 
+
+
+repo : 
+
+remote : github (main)
+
+
+local : many 
